@@ -2,11 +2,11 @@
 Name - Mainak Singha
 Roll - 213310020
 
-# Mentors 
+## Mentors 
 (1) Kaivaly Daga
 (2) Manav Doshi
 
-**Seasons of Code (SoC), IIT Bombay**
+## Seasons of Code (SoC), IIT Bombay
 
 In the project Child Face Generator using GAN of Seasons of Code (SoC), I'm doing the progress with the following,
 - Brush up with the Python basics.
