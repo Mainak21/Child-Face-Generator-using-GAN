@@ -66,12 +66,15 @@ Scatter plot of faces latent vectors. Blue dots are males, pink are females. Mov
 
 ## Results
 **Father**
+<br>
 ![father](https://github.com/Mainak21/Child-Face-Generator-using-GAN/blob/main/Images/father.png)
 
 **Mother**
+<br>
 ![mother](https://github.com/Mainak21/Child-Face-Generator-using-GAN/blob/main/Images/mother.png)
 
 **Daughter**
+<br>
 ![daughter](https://github.com/Mainak21/Child-Face-Generator-using-GAN/blob/main/Images/daughter.png)
 
 ## Conclusion
@@ -94,6 +97,8 @@ Scatter plot of faces latent vectors. Blue dots are males, pink are females. Mov
 [6] https://github.com/munozalexander/Child-Face-Generation
 
 [7] https://github.com/tg-bomze/BabyGAN
+
+
 
 
 
