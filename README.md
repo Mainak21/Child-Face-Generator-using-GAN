@@ -18,3 +18,19 @@ In the project Child Face Generator using GAN of Seasons of Code (SoC), I'm doin
 - Introduction to GANs
 - Interactive Probability
 - Watched referral videos in CNN provided by the mentors.
+
+## Convolutional Neural Networks (CNN)
+![CNN](https://github.com/Mainak21/Child-Face-Generator-using-GAN/blob/main/Images/cnn.jpeg)
+Types of layer in a convolutional network :
+- Convolution
+- Pooling
+- Fully Connected
+
+## Generative Adversarial Networks (GAN)
+They have generators and discriminators. They play min-max game to each other
+
+### Deep Convolutional Generative Adversarial Networks (DCGAN)
+![DCGAN](https://github.com/Mainak21/Child-Face-Generator-using-GAN/blob/main/Images/DCGAN.png)
+
+## Child Face Generator - FamilyGAN
+
